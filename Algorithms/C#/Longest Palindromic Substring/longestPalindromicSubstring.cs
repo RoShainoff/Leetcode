@@ -13,8 +13,7 @@ public class Solution {
             s2[n2 - 1] = '!';
 
             var p = new int[n2];
-            int rangeMax = 0, center = 0;
-            var longestCenter = 0;
+            int rangeMax = 0, center = 0, longestCenter = 0;
 
             for (int i = 1; i < n2 - 1; i++)
             {
