@@ -11,3 +11,4 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/MedianOfTwoSortedArrays/MedianOfTwoSortedArrays.cs) | High
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Longest%20Palindromic%20Substring/longestPalindromicSubstring.cs) | Medium
 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Zigzag%20Conversion/zigzagConversion.cs) | Medium
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Reverse%20Integer/reverseInteger.cs) | Medium
