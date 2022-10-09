@@ -13,5 +13,5 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Zigzag%20Conversion/zigzagConversion.cs) | Medium
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Reverse%20Integer/reverseInteger.cs) | Medium
 8 | [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/String%20to%20Integer%20(atoi)/StringToIntegerAtoi.cs) | Medium
-10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Regular%20Expression%20Matching/regularExpressionMatching.cs) | Hard
+10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/RegularExpressionMatching/regularExpressionMatching.cs) | Hard
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.cs) | Medium
