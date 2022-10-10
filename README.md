@@ -15,4 +15,5 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 8 | [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/String%20to%20Integer%20(atoi)/StringToIntegerAtoi.cs) | Medium
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/RegularExpressionMatching/regularExpressionMatching.cs) | Hard
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Container%20With%20Most%20Water/containerWithMostWater.cs) | Medium
+91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Decode%20Ways/decodeWays.cs) | Medium
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.cs) | Medium
