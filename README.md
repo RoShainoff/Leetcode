@@ -20,7 +20,7 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Increasing%20Triplet%20Subsequence/increasingTripletSubsequence.cs) | Medium
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Is%20Subsequence/isSubsequence.cs) | Easy
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.cs) | Medium
-595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0595-Big%20Countries/bigCountries.sql) | Easy
+595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0595-Big%20Countries/bigCountries.sql) | Easy
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Find%20Pivot%20Index/findPivotIndex.cs) | Easy
 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Break%20a%20Palindrome/breakAPalindrome.cs) | Medium
 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Running%20Sum%20of%201d%20Array/runningSumOfArray.cs) | Easy
