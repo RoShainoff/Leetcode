@@ -16,6 +16,7 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/RegularExpressionMatching/regularExpressionMatching.cs) | Hard
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Container%20With%20Most%20Water/containerWithMostWater.cs) | Medium
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Decode%20Ways/decodeWays.cs) | Medium
+205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Isomorphic%20Strings/isomorphicStrings.cs) | Easy
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Subarray%20Sum%20Equals%20K/SubarraySumEqualsK.cs) | Medium
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Find%20Pivot%20Index/findPivotIndex.cs) | Easy
 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/Break%20a%20Palindrome/breakAPalindrome.cs) | Medium
