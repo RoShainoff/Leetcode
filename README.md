@@ -19,6 +19,7 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0091-Decode%20Ways/decodeWays.cs) | Medium
 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0183-Customers%20Who%20Never%20Order/customersWhoNeverOrder.sql) | Easy
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0205-Isomorphic%20Strings/isomorphicStrings.cs) | Easy
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0206-Reverse%20Linked%20List/reverseLinkedList.cs) | Easy
 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0334-Increasing%20Triplet%20Subsequence/increasingTripletSubsequence.cs) | Medium
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0392-Is%20Subsequence/isSubsequence.cs) | Easy
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0560-Subarray%20Sum%20Equals%20K/subarraySumEqualsK.cs) | Medium
