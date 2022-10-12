@@ -26,6 +26,7 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0560-Subarray%20Sum%20Equals%20K/subarraySumEqualsK.cs) | Medium
 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0584-Find%20Customer%20Referee/findCustomerReferee.sql) | Easy
 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0595-Big%20Countries/bigCountries.sql) | Easy
+627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0627-Swap%20Salary/swapSalary.sql) | Easy
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0724-Find%20Pivot%20Index/findPivotIndex.cs) | Easy
 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [C#](https://github.com/RoShainoff/Leetcode/tree/master/Algorithms/C%23/0976-Largest%20Perimeter%20Triangle) | Easy
 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/1328-Break%20a%20Palindrome/breakAPalindrome.cs) | Medium
