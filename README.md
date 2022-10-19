@@ -23,6 +23,7 @@ Inspired by [haoel's Leetcode](https://github.com/haoel/leetcode)
 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/SQL/0183-Customers%20Who%20Never%20Order/customersWhoNeverOrder.sql) | Easy
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0191-%20Number%20of%201%20Bits/numberOf1Bits.cs) | Easy
 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0196-Delete%20Duplicate%20Emails/deleteDuplicateEmails.sql) | Easy
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0200-Number%20of%20Islands/numberOfIslands.cs) | Medium
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0202-Happy%20Number/happyNumber.cs) | Easy
 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0205-Isomorphic%20Strings/isomorphicStrings.cs) | Easy
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C#](https://github.com/RoShainoff/Leetcode/blob/master/Algorithms/C%23/0206-Reverse%20Linked%20List/reverseLinkedList.cs) | Easy
